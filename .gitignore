@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+node_modules/
+.env
+.vscode
+=======
+node_modules
+>>>>>>> df0bdd9e6a12055b670eda72b8fb7ad66965cf4a
